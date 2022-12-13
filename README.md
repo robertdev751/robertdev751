@@ -11,9 +11,7 @@
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-blue.svg?logo=typescript&logoColor=white"></a>
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-green.svg?logo=nodedotjs&logoColor=black"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-yellow.svg?logo=python&logoColor=blue"></a>
-    <a href="#"><img alt="C#" src="https://img.shields.io/badge/-white.svg?logo=csharp&logoColor=purple"></a>
-    <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-blue.svg?logo=kotlin&logoColor=yellow"></a>
-    <a href="#"><img alt="Dart" src="https://img.shields.io/badge/Dart-black.svg?logo=Dart&logoColor=blue"></a>
+    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/-white.svg?logo=csharp&logoColor=purple"></a>
     <a href="#"><img alt="Scala" src="https://img.shields.io/badge/Scala-white.svg?logo=scala&logoColor=red"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-blue.svg?logo=html&logoColor=White"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-blue.svg?logo=css&logoColor=white"></a>
@@ -25,8 +23,8 @@
 <p>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-green.svg?logo=django&logoColor=white"></a>
     <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-white.svg?logo=flask&logoColor=black"></a>
-    <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-yellow.svg?logo=dotnet&logoColor=black"></a>
-    <a href="#"><img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-white.svg?logo=aspdotnett&logoColor=blue"></a>
+    <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/.NET-yellow.svg?logo=dotnet&logoColor=black"></a>
+    <a href="#"><img alt="Symfony" src="https://img.shields.io/badge/ASP.NET-white.svg?logo=aspdotnett&logoColor=blue"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-white.svg?logo=react&logoColor=blue"></a>
     <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-white.svg?logo=redux&logoColor=purple"></a>
     <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-black.svg?logo=nextdotjs&logoColor=white"></a>

@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Robert Ward</h1>
-<h3 align="center">Digital Genius</h3>
-<img align="center" alt="Coding" width="350" src= "https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mattcraft118&label=Profile%20views&color=0e75b6&style=flat" alt="mattcraft118" /> </p>
 
 ## 🛠️ My favorite tools
 
